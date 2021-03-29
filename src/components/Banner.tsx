@@ -6,7 +6,7 @@ export function Banner(){
         <section className={styles.banner}>
             <div className={styles.containerBanner}>
                 <div className={styles.inforContainer}>
-                    <img src="img/tituloLogo.png" alt="Logo Acumule Smiles" />
+                    <img src="img/TituloLogo.png" alt="Logo Acumule Smiles" />
                     <div className={styles.textContainer}>
                         <h2>Aprenda a acumular milhas com a Smiles!</h2>
                         <p>te ensinamos a acumular milhas de forma fácil pra economizar nas suas próximas viagens e compras. <span>#milhasparatodos</span></p>
