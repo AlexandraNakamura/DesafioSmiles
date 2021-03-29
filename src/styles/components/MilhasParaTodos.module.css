@@ -1,0 +1,60 @@
+.milhasParaTodos {
+    width: 100%;
+    height: auto;
+    background: var(--white);
+}
+
+.milhasParaTodosContainer {
+    width: 1440px;
+    height: 495px;
+
+    margin: 0 auto;
+}
+
+.tituloMilhasParaTodos h3 {
+    margin: 0px auto 45px;
+    padding-top: 50px;
+    font-family: 'NunitoRegular', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+
+    color:var(--secundary-color);
+}
+
+.explicacaoContainer {
+    width: 1190px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.explicacaoContainer div { 
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+}
+
+.explicacaoContainer img {
+    width: 210px;
+    height: 210px;
+}
+
+.explicacaoContainer p {
+    width: 340px;
+    height: 95px;
+
+    font-family: 'NunitoRegular', Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+
+    color: var(--third-color);
+}
+
+.explicacaoContainer p span {
+    font-weight: bold;
+}

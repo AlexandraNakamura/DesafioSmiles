@@ -1,0 +1,76 @@
+.OQueSaoMilhas {
+    width: 100%;
+    height: 700px;
+    
+}
+
+.OQueSaoMilhasContainer {
+    width: 1440px;
+    height: 700px;
+    margin: 0 auto;
+    background: var(--secundary-color) url("../../../public/img/LinhaAviao.png");
+}
+
+.textOQueSaoMilhas {
+    width: 100%;
+}
+
+.textOQueSaoMilhas h3 {
+    padding-top: 40px;
+
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+
+    color:var(--primary-color);
+
+}
+
+.textOQueSaoMilhas p {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+
+    color: var(--white);
+}
+
+.videoConteiner {
+    width: 1100px;
+    margin: 40px auto 30px;
+    display: flex;
+
+}
+
+.buttonContainer {
+    width: 206px;
+    margin: 0 auto;
+    
+}
+
+.buttonContainer button{
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.41px;
+
+    padding: 15px 15px;
+    
+    border: none;
+    border-radius: 4px;
+    background-color: var(--primary-color);
+
+    margin-top: 40px;
+
+    color: var(--white);
+}
