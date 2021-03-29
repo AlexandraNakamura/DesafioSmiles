@@ -5,7 +5,7 @@
 }
 
 .OQueSaoMilhasContainer {
-    width: 1440px;
+    max-width: 1440px;
     height: 700px;
     margin: 0 auto;
     background: var(--secundary-color) url("../../../public/img/LinhaAviao.png");

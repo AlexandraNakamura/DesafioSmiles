@@ -21,7 +21,7 @@ Qualquer dúvida pode nos contatar:
 Desenvolvimento/UX/UI
 
 [Ana Clara Naomi Uemura](https://www.linkedin.com/in/acnuemura/)
-Business
+Business/UX/UI
 
 [Camila Miki Kawamura](https://www.linkedin.com/in/camilamikikawamura/)
 UX/UI
