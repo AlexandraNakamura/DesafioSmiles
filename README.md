@@ -10,7 +10,7 @@ desenvolvimento
 # Objetivo
 Somos do grupo 54 e viemos apresentar o Acumule Smiles. 
 A acumule Smiles é a jornada para pessoas que querem acumular milhas para economizar, mas não sabem por onde começar. 
-Queremos Ensinar de forma fácil e personalizada, mostrando que todos podem acumular milhas através de produtos que já consomem no dia-a-dia e assim atignr seus sonhos. 
+Queremos Ensinar de forma fácil e personalizada, mostrando que todos podem acumular milhas através de produtos que já consomem no dia-a-dia e assim atingir seus sonhos. 
 
 
 
