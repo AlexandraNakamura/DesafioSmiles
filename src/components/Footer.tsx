@@ -104,7 +104,7 @@ export function Footer(){
                     </div>
                     <div className={styles.smilesFooterABEMF}>
                     <p>Empresa associada à</p>
-                        <img src="img/associada.jpg" alt="Logo ABEMF" />
+                        <img src="img/Group.png" alt="Logo ABEMF" />
                     </div>
                 </div>
 
