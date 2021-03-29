@@ -88,12 +88,18 @@ export function Footer(){
                     </div>
                     <div className={styles.redeSocialBottom}>
                         <ul className={styles.socialListBottom}>
-                            <li><a href="https://www.linkedin.com/company/smiles/?originalSubdomain=br" rel="nofollow" target="_blank"> <img src="img/IconLI.png" alt="Logo LinkedIn" /></a></li>
-                            <li><a href="https://www.facebook.com/smilesoficial" rel="nofollow" target="_blank"><img src="img/IconFace.png" alt="Logo FaceBook" /> </a></li>
-                            <li><a href="http://twitter.com/smilesoficial" rel="nofollow" target="_blank"><img src="img/IconTwitter.png" alt="Logo Twitter" /> </a></li>
-                            <li><a href="https://www.instagram.com/smiles.oficial" rel="nofollow" target="_blank"><img src="img/IconInsta.png" alt="Logo Instagram" /> </a></li>
-                            <li><a href="https://open.spotify.com/user/nwlniija6bhxjqdd2iusmzu9g" rel="nofollow" target="_blank"><img src="img/IconSpot.png" alt="Logo Spotify" /></a></li>
-                            <li><a href="https://www.youtube.com/channel/UC59HK2HLcg5mtdePe4uCpVQ" rel="nofollow" target="_blank"><img src="img/IconYT.png" alt="Logo Youtube" /></a></li>
+                            <li><a href="https://www.linkedin.com/company/smiles/?originalSubdomain=br" rel="nofollow" target="_blank"> 
+                            <img src="img/IconLI.png" alt="Logo LinkedIn" /></a></li>
+                            <li><a href="https://www.facebook.com/smilesoficial" rel="nofollow" target="_blank">
+                                <img src="img/IconFace.png" alt="Logo FaceBook" /> </a></li>
+                            <li><a href="http://twitter.com/smilesoficial" rel="nofollow" target="_blank">
+                                <img src="img/IconTwitter.png" alt="Logo Twitter" /> </a></li>
+                            <li><a href="https://www.instagram.com/smiles.oficial" rel="nofollow" target="_blank">
+                                <img src="img/IconInsta.png" alt="Logo Instagram" /> </a></li>
+                            <li><a href="https://open.spotify.com/user/nwlniija6bhxjqdd2iusmzu9g" rel="nofollow" target="_blank">
+                                <img src="img/IconSpot.png" alt="Logo Spotify" /></a></li>
+                            <li><a href="https://www.youtube.com/channel/UC59HK2HLcg5mtdePe4uCpVQ" rel="nofollow" target="_blank">
+                                <img src="img/IconYT.png" alt="Logo Youtube" /></a></li>
                         </ul>
                     </div>
                     <div className={styles.smilesFooterABEMF}>
