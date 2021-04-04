@@ -25,7 +25,7 @@ export function Footer(){
                         </div>
                     </div>
                     <div className={styles.tabelaLinkFooterBoxDireita}>
-                        <div className={styles.smilerFooterLink}>
+                        <div className={styles.smilerFooterLinkDireita}>
                             <div className={styles.colunaLinkAjudaFooter}>
                             <span>
                                 <div className={styles.smilesFooterIconsBallon}>
