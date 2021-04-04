@@ -1,3 +1,4 @@
+import { AcumularMilhas } from "../components/AcumularMilhas";
 import { Banner } from "../components/Banner";
 import { Footer } from "../components/Footer";
 import { MilhasParaTodos } from "../components/MilhasParaTodos";
@@ -12,6 +13,7 @@ export default function Home() {
     <Banner />
     <MilhasParaTodos />
     <OQueSaoMilhas />
+    <AcumularMilhas />
     <Footer />
     
   </div>

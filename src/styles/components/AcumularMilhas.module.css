@@ -1,0 +1,85 @@
+.AcumularMilhas {
+    width: 100%;
+    background-color: var(--white);
+}
+
+.AcumularMilhasContainer {
+    width: 1280px;
+    margin: 0 auto;
+
+    text-align: center;
+}
+
+.AcumularMilhasTexto {
+    width: 100%;
+    margin: 45px auto 50px;
+
+    text-align: center;
+
+    display: block;
+}
+
+.AcumularMilhasTexto h3 {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+
+    color:var(--secundary-color);
+}
+
+.AcumularMilhasTexto p {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+
+    color: var(--third-color);
+}
+
+.AcumularMilhasIcons {
+    width: 100%;
+    margin-top: 390px;
+    position: relative;
+}
+
+.AcumularMilhasIconContainer {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.AcumularMilhasIconContainer li {
+    width: 75px;
+    height: 75px;
+}
+
+.AcumularMilhasIconPadrao {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: .5s ease-in-out;
+    z-index: 1;
+}
+
+.AcumularMilhasIconPadrao:hover {
+    display: none;
+}
+
+.AcumularMilhasIconHover {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: .5s ease-in-out;
+    z-index: 1;
+}
+
+.AcumularMilhasIconHover:hover {
+    display: '';
+    position: relative;
+}
