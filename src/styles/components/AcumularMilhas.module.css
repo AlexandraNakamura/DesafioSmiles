@@ -12,7 +12,8 @@
 
 .AcumularMilhasTexto {
     width: 100%;
-    margin: 45px auto 50px;
+    margin: 0 auto 50px;
+    padding-top: 41px;
 
     text-align: center;
 
@@ -53,33 +54,31 @@
     list-style-type: none;
 }
 
-.AcumularMilhasIconContainer li {
-    width: 75px;
-    height: 75px;
+.AcumularMilhasIconContainerPadrao, .AcumularMilhasIconContainerHover {
+    display: flex;
 }
 
-.AcumularMilhasIconPadrao {
+.AcumularMilhasIconContainerPadrao {
+    position: absolute;
     width: 100%;
     height: 100%;
-    position: relative;
-    transition: .5s ease-in-out;
     z-index: 1;
+}
+
+.AcumularMilhasIconPadrao, .AcumularMilhasIconHover  {
+    display: block;
+
+    width: 100%;
+    height: 100%;
 }
 
 .AcumularMilhasIconPadrao:hover {
-    display: none;
+    opacity: 0;
 }
 
 .AcumularMilhasIconHover {
-    display: none;
-    width: 100%;
-    height: 100%;
     position: relative;
-    transition: .5s ease-in-out;
-    z-index: 1;
-}
-
-.AcumularMilhasIconHover:hover {
-    display: '';
-    position: relative;
+    opacity: 100;
+    z-index: 0;
+    margin-bottom: 40px;
 }
